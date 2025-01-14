@@ -26,7 +26,7 @@ Aquesta és la entrega de la segona pràctica, de Marc Bracons Cucó, per l'assi
 
 - **`mapa/ne_110m_admin_0_countries.shp`**: Fitxer *shapefile* amb la informació geogràfica de tots els països del món. És necessari per poder pintar el mapa amb GeoPandas.
 
-- **Dashboard Marc Bracons.py**): El codi on es defineix tota la lògica de l’aplicació Streamlit i els diferents apartats (selecció de l’any, càlcul de correlacions, gràfics, etc.).
+- **`main.py`**: El codi on es defineix tota la lògica de l’aplicació Streamlit i els diferents apartats (selecció de l’any, càlcul de correlacions, gràfics, etc.).
 
 ---
 
@@ -39,6 +39,6 @@ Aquesta és la entrega de la segona pràctica, de Marc Bracons Cucó, per l'assi
    ```
 3. **Executa** l'apliació Streamlit:
    ```bash
-   streamlit run "Dashboard Marc Bracons.py"
+   streamlit run main.py
    ```
 4. **Obre** el navegador a l'adreça que aparegui al terminal (normalment http://localhost:8501)
