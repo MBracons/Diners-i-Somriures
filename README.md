@@ -12,7 +12,7 @@ Aquest projecte mostra un estudi de la felicitats i els factors que més hi infl
 
 ## Propietari
 
-Aquesta és la entrega de la segona pràctica, de Marc Bracons Cucó, per l'assignatura de Visualització de Dades, del Màster de Ciència de Dades de la UOC, del curs 2024/2025.
+Aquesta és la entrega de la segona pràctica, de Marc Bracons Cucó, per l'assignatura de Visualització de Dades, del Màster de Ciència de Dades de la UOC, del curs 2024/2025. La visualització es pot veure a https://diners-i-somriures-uoc-braconsm.streamlit.app/
 
 ---
 
