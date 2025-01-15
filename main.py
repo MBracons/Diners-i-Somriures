@@ -157,7 +157,7 @@ if 'Life Ladder' in numeric_cols:
 # ----------------------------------------------------------------------------
 # Selector de variables
 variable = st.sidebar.selectbox(
-    'Selecciona una variable para visualizar',
+    'Selecciona una variable para visualitzar',
     [
         'Log GDP per capita',
         'Human Development Index',
