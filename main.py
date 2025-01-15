@@ -176,7 +176,8 @@ fig2 = px.scatter(
     x=variable,
     y='Life Ladder',
     trendline='ols',
-    trendline_color_override='red'
+    trendline_color_override='red',
+    hover_name='Country'    
 )
 st.plotly_chart(fig2)
 
@@ -202,6 +203,7 @@ fig_all_years = px.scatter(
     y='Life Ladder',
     color='Country',
     hover_name='Country',
+    hover_data=['Year'],    
     title='Relació entre Log GDP per capita i Life Ladder'
 )
 st.plotly_chart(fig_all_years)
