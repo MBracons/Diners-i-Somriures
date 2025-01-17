@@ -1,6 +1,6 @@
 # README
 
-Aquest projecte mostra un estudi de la felicitats i els factors que més hi influeixen, com ara el PIB per càpita o el nivell de corrupció percebut, a més d’altres factors. El codi adjunt permet fa servir [Streamlit](https://streamlit.io/) i està estructurat de la següent forma:
+Aquest projecte mostra un estudi de la felicitat i els factors que més hi influeixen, com ara el PIB per càpita o el nivell de corrupció percebut, a més d’altres factors. El codi adjunt fa servir [Streamlit](https://streamlit.io/) i està estructurat de la següent forma:
 
 1. **Carregar i filtrar** les dades (anys 2010 - 2021).  
 2. **Visualitzar** un mapa mundial amb l’índex de felicitat per a l’any seleccionat.  
